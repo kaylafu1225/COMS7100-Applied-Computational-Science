@@ -1,0 +1,2 @@
+Method,EOS,Temperature_K,a,b,SSE,RMSE,R_squared,Adjusted_R_squared,R_factor,Std_Error_a,Std_Error_b,Iterations,Converged
+Gauss-Newton,Dieterici,200.0,10.0,0.001,186617947468692.0,433950.1841567289,-2.181624216451771,-2.1848412277929756,0.7875424810577359,3.568329424771289,0.00119334164144995,0,False
