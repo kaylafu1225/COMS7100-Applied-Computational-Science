@@ -1,0 +1,17 @@
+PROJECT 3.II: Eight-planet N-body model
+Method: RK2
+Duration: 3 years
+Steps: 4383
+Actual dt: 0.2500000000 days
+Frames saved: 2193
+Sun fixed at origin; heliocentric J2000 state vectors assumed.
+Sun gravity + mutual gravity of all eight planets.
+No relativistic effects or other Solar System bodies.
+Mercury: mass=3.302000000e+23 kg, final distance=47.210279 million km
+Venus: mass=4.868500000e+24 kg, final distance=107.567361 million km
+Earth: mass=5.972400000e+24 kg, final distance=147.153644 million km
+Mars: mass=6.418500000e+23 kg, final distance=241.932469 million km
+Jupiter: mass=1.898130000e+27 kg, final distance=793.989568 million km
+Saturn: mass=5.683190000e+26 kg, final distance=1352.750129 million km
+Uranus: mass=8.681030000e+25 kg, final distance=2994.029985 million km
+Neptune: mass=1.024100000e+26 kg, final distance=4500.185582 million km

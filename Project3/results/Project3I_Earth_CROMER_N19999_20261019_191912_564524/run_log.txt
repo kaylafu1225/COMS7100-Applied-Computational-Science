@@ -1,0 +1,9 @@
+Project 3.I | Planets: Earth | Methods: CROMER | N=19999
+Simulating Earth | Method: Euler-Cromer | Steps: 19999 | dt: 1578.002100 s
+  Aphelion: 152.1320 million km; period: 365.2993 days; mean error: 0.1603%
+
+Saved 1 simulations to /Users/kayla/Downloads/COMS 7100 Applied Computational Science/Project3/results/Project3I_Earth_CROMER_N19999_20261019_191912_564524
+Generated files:
+  Project3I_Parameters_Earth_CROMER_N19999.csv
+  Project3I_Report_Earth_CROMER_N19999.txt
+  Project3I_Orbit_Earth_CROMER_N19999.png

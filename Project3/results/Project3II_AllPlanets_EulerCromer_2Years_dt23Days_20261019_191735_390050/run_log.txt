@@ -1,0 +1,27 @@
+Input folder: /Users/kayla/Downloads/COMS 7100 Applied Computational Science/Project3/files
+Loading NASA HORIZONS initial conditions...
+  Mercury  | r=   69.783 million km | v= 38.882 km/s
+  Venus    | r=  107.742 million km | v= 35.172 km/s
+  WARNING: Earth mass not parsed; using documented fallback 5.972400e+24 kg
+  Earth    | r=  147.104 million km | v= 30.292 km/s
+  Mars     | r=  208.122 million km | v= 26.327 km/s
+  Jupiter  | r=  742.810 million km | v= 13.676 km/s
+  Saturn   | r= 1373.884 million km | v= 10.032 km/s
+  Uranus   | r= 2980.592 million km | v=  6.551 km/s
+  Neptune  | r= 4505.975 million km | v=  5.425 km/s
+Output folder: /Users/kayla/Downloads/COMS 7100 Applied Computational Science/Project3/results/Project3II_AllPlanets_EulerCromer_2Years_dt23Days_20261019_191735_390050
+Simulating 2 years, nominal dt=23 days.
+Running EulerCromer...
+  EulerCromer: 3/32 steps (9%)
+  EulerCromer: 6/32 steps (19%)
+  EulerCromer: 9/32 steps (28%)
+  EulerCromer: 12/32 steps (38%)
+  EulerCromer: 15/32 steps (47%)
+  EulerCromer: 18/32 steps (56%)
+  EulerCromer: 21/32 steps (66%)
+  EulerCromer: 24/32 steps (75%)
+  EulerCromer: 27/32 steps (84%)
+  EulerCromer: 30/32 steps (94%)
+Completed EulerCromer: 32 steps, 33 frames.
+Saved outputs with prefix: Project3II_AllPlanets_EulerCromer_2Years_dt23Days
+Finished. Open the results folder for plots, CSV, TXT and PyMOL MOL2 files.

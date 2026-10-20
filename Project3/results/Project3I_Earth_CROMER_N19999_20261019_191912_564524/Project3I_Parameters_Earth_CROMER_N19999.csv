@@ -1,0 +1,2 @@
+planet,method,aphelion_distance_million_km,aphelion_speed_km_s,semimajor_axis_million_km,orbital_period_days,eccentricity,mean_orbital_speed_km_s,relative_error_percent,period_detected
+Earth,cromer,152.13204249710907,29.28611278027431,149.6109646001637,365.29932929035056,0.01685088993098179,29.781724348857782,0.16029296505124888,True

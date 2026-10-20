@@ -1,0 +1,19 @@
+PROJECT 3.I - PLANETARY MOTION
+Steps per reference orbit: 19999
+Orbital parameters are computed from the simulated trajectory.
+Reference Table 1 values are used only for error comparison.
+Reference periods set the numerical time step, not output periods.
+Methods used: Euler-Cromer
+Relative error: arithmetic mean of available six parameter percent errors.
+Missing periods and mean speeds are reported as nan.
+
+Planet: Earth | Method: Euler-Cromer | Steps: 19999
+  aphelion_distance_million_km: 152.13204249710907
+  aphelion_speed_km_s: 29.28611278027431
+  semimajor_axis_million_km: 149.6109646001637
+  orbital_period_days: 365.29932929035056
+  eccentricity: 0.01685088993098179
+  mean_orbital_speed_km_s: 29.781724348857782
+  relative_error_percent: 0.16029296505124888
+  period_detected: True
+

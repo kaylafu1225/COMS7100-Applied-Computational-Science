@@ -1,0 +1,17 @@
+PROJECT 3.II: Eight-planet N-body model
+Method: EulerCromer
+Duration: 2 years
+Steps: 32
+Actual dt: 22.8281250000 days
+Frames saved: 33
+Sun fixed at origin; heliocentric J2000 state vectors assumed.
+Sun gravity + mutual gravity of all eight planets.
+No relativistic effects or other Solar System bodies.
+Mercury: mass=3.302000000e+23 kg, final distance=267.375367 million km
+Venus: mass=4.868500000e+24 kg, final distance=166.110263 million km
+Earth: mass=5.972400000e+24 kg, final distance=176.453612 million km
+Mars: mass=6.418500000e+23 kg, final distance=203.502198 million km
+Jupiter: mass=1.898130000e+27 kg, final distance=762.330736 million km
+Saturn: mass=5.683190000e+26 kg, final distance=1352.075189 million km
+Uranus: mass=8.681030000e+25 kg, final distance=2989.215057 million km
+Neptune: mass=1.024100000e+26 kg, final distance=4501.717566 million km
